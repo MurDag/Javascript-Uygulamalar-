@@ -1,0 +1,30 @@
+.navbar{
+	width: 800px;
+	height: 50px;
+	margin: 0 auto 10px;
+	background: red;
+	text-align: center;
+	font-weight: bold;
+	font-size: 35px;
+	color: black;
+	border-top-right-radius: 25px;
+	border-top-left-radius: 25px;
+	box-shadow: 0 5px 15px 15px;
+}
+
+table {
+	width: 800px;
+	height: auto;
+	margin:	0 auto;
+	background: #0af6ff;
+	box-shadow: 0 5px 15px 15px;
+
+}
+
+body{
+	background: #07c4be;
+}
+
+td{
+	text-align: center;
+}
